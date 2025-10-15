@@ -1,0 +1,1 @@
+print("PRAMOD",123,"AMIT","Jhon", sep='*',end="_")
