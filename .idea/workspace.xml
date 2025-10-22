@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f0e943a-df2f-4b54-8650-8d41a3a1abcf" name="Changes" comment="New commi t">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002_Comment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Keyword_Identifier_Variables/Lab004_Keywords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003_Print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab003.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +69,20 @@
     "Python.Lab018_Example_Multicomment.executor": "Run",
     "Python.Lab019_Data_type.executor": "Run",
     "Python.Lab020_Builtin_Functions.executor": "Run",
+    "Python.Lab021_UserInput.executor": "Run",
+    "Python.Lab022_User_Input_Sum_of_two_Numbers.executor": "Run",
+    "Python.Lab023_String.executor": "Run",
+    "Python.Lab024_String_Conversion.executor": "Run",
+    "Python.Lab025_Srings.executor": "Run",
+    "Python.Lab026_Escape_Char.executor": "Run",
+    "Python.Lab027_String_DOuble_SingleQuote_Diff.executor": "Run",
+    "Python.Lab043_If_Condition.executor": "Run",
+    "Python.Lab043_If_Condition_Optimized.executor": "Run",
+    "Python.Lab045_Else if.executor": "Run",
+    "Python.Lab046_IF_else_Condition.executor": "Run",
+    "Python.Lab047_if_else_elif.executor": "Run",
+    "Python.Lab048_Grade_Calculator.executor": "Run",
+    "Python.Lab44_Nested_If_elseif_statement.executor": "Run",
     "Python.Task001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -194,7 +204,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759935566821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New commi t">
+      <option name="closed" value="true" />
+      <created>1760550370929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760550370929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New commi t">
+      <option name="closed" value="true" />
+      <created>1760550505234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760550505234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +242,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
+    <MESSAGE value="New commi t" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commi t" />
   </component>
 </project>
